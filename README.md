@@ -1,4 +1,4 @@
-test for ONES.AI
+test for ONES.AI2
 ---
 description: >-
   A demo Jave project with tool gradle,for our CICD.
